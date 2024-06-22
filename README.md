@@ -1,4 +1,4 @@
-# pinned  
+# welcome visitor  
 > 🧚🏻‍♀️ I'm fair4/fairy, a student interested in coding, and trying to code everyday.  
 🌺 I'm in the process of building a website and other fun tidbits.  
 🌱 I'm currently learning Java and Java Frameworks, C and C++, Javascript, and UNIX Operating Systems.  
